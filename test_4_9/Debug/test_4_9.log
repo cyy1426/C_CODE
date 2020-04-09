@@ -1,0 +1,3 @@
+﻿  test_4_9.cpp
+E:\程艳阳开始学习了！！！！\test_4_9\test_4_9.cpp(16,26): warning C4244:  “return”: 从“float”转换到“int”，可能丢失数据
+  test_4_9.vcxproj -> E:\程艳阳开始学习了！！！！\test_4_9\Debug\test_4_9.exe
